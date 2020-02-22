@@ -1,1 +1,4 @@
-https://zhabrikov.github.io/Homework-Lesson-6-7-8-9-10/
+# DESIGN AND DEVELOPMENT
+https://orcourse.github.io/-EvgenyZh_01_20_3/
+
+Курс HTML/CSS , проходил Евгений Жабриков январь-февраль 2020 года. Дипломный проект.
